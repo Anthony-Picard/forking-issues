@@ -1,2 +1,4 @@
 A blanket is comforting as we work from a far.
 Below are the musings from learners of R:
+I am very new to R
+Hopefully I can go very far
